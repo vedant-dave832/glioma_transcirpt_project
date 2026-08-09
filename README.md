@@ -1,4 +1,4 @@
-# glioma_transcirpt_project
+# glioma_transcript_project
 
 Transcriptomic biomarker research for IDH-mutant glioma — Oldham Lab, UCSF Department of Neurological Surgery.
 
